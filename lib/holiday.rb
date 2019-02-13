@@ -63,7 +63,7 @@ string = ""
     
     puts "#{season.capitalize}:"
     puts cap_hols
-    puts stuff.join(", ")
+    puts stuff.join(", ") # gets everything to console but x2 winters
 
     end  
   end
